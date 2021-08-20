@@ -5,4 +5,4 @@ Instagram Webber is a Python script that scrapes Instagram's website with a head
 * Only essential src files are included. 
 * The code is not commented since it was for personal use and the function names are intended to be clear.
 * Certain files and directories were removed to prevent abuse. 
-
+* Best used as a function library in python interactive.
